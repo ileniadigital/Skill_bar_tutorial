@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+}
+.bar{
+    width: 100%;
+    background-color: rgba(255,255,255,0.5);
+    font-weight: bold;
+    margin-bottom: 1.5%;
+    font-size: 1.5rem;
+}
+
+.skill{
+    background-color: red;
+}
+
+.java{
+    width: 60%;
+}
+
+.python, .illustrator{
+    width: 80%;
+}
+
+.php{
+    width: 50%;
+}
+
+.maya, .photoshop{
+    width: 75%;
+}
+
+#design{
+    margin-top: 4%;
+}
